@@ -13,8 +13,8 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+#selected_papers: true # includes a list of papers marked as "selected={true}"
+#social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -29,6 +29,3 @@ latest_posts:
 
 I'm a PhD student in Applied Mathematics in the [Biomathematics team](https://biomathematics.mics.centralesupelec.fr/) in the MICS laboratory at CentraleSupélec. My PhD is about "Modeling and prediction of the development and transformation of hematological malignancies" under the supervision of [Gurvan Hermange](https://sites.google.com/view/gurvan-hermange), Isabelle Plo and Paul-Henry Cournéde. My research aims to use mathematical tools and concepts to answer biological and medical questions and understand biological processes. I'm interested in phylogenetics, population dynamics and branching processes. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-# Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
