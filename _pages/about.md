@@ -27,5 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD student in Applied Mathematics in the [Biomathematics team](https://biomathematics.mics.centralesupelec.fr/) in the MICS laboratory at CentraleSupélec. My PhD is about "Modeling and prediction of the development and transformation of hematological malignancies" under the supervision of [Gurvan Hermange](https://sites.google.com/view/gurvan-hermange), Isabelle Plo and Paul-Henry Cournéde. My research aims to use mathematical tools and concepts to answer biological and medical questions and understand biological processes. I'm interested in phylogenetics, population dynamics and branching processes. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a PhD student in Applied Mathematics in the [Biomathematics team](https://biomathematics.mics.centralesupelec.fr/) in the MICS laboratory at CentraleSupélec. My PhD is about "Modeling and prediction of the development and transformation of hematological malignancies" under the supervision of [Gurvan Hermange](https://sites.google.com/view/gurvan-hermange), Isabelle Plo and Paul-Henry Cournéde. 
+My research aims to use mathematical tools and concepts to answer biological and medical questions and understand biological processes. I'm interested in phylogenetics, population dynamics and branching processes. 
 
